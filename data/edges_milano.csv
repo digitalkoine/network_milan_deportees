@@ -1,0 +1,202 @@
+from,to,value,arrows,shadow,dashes
+"Afnaim, Leone",Carcere di Rovigo,1,middle;to,TRUE,FALSE
+"Afnaim, Matilde",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Afnaim, Vittoria 14 marzo 1933",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Afnaim, Vittoria 28 luglio 1934",Carcere di Rovigo,1,middle;to,TRUE,FALSE
+"Anscherlik, Augusta",Carcere di Varese,1,middle;to,TRUE,FALSE
+"Anscherlik, Franca",Carcere di Varese,1,middle;to,TRUE,FALSE
+"Anscherlik, Paola",Carcere di Varese,1,middle;to,TRUE,FALSE
+"Anticoli, Attilio",Carcere di Roma,1,middle;to,TRUE,FALSE
+"Archivolti, Liliana",Carcere di Pisa,1,middle;to,TRUE,FALSE
+"Azzarelli, Lina",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Bassi, Alberto",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Bellak, Giorgetta",Carcere di Varese,1,middle;to,TRUE,FALSE
+"Besso, Elsa Jolanda",Carcere di Sondrio,1,middle;to,TRUE,FALSE
+"Besso, Lina",Carcere di Sondrio,1,middle;to,TRUE,FALSE
+"Bottoni, Maria",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Brill, Attilio",Campo di Risiera San Sabba,1,middle;to,TRUE,FALSE
+"Caminada, Arturo",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Caro, Violetta",Carcere di Rovigo,1,middle;to,TRUE,FALSE
+"Cittone, Elia",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Cittone, Gioia Giulietta",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Coen, Elena",Carcere di Bergamo,1,middle;to,TRUE,FALSE
+"Cohen, Alberto",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Corinaldi, Emilio",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Costantini, Giovanna Ester",Carcere di Varese,1,middle;to,TRUE,FALSE
+"Costantini, Giulia",Carcere di Varese,1,middle;to,TRUE,FALSE
+"Costantini, Giulio",Carcere di Varese,1,middle;to,TRUE,FALSE
+"Costantini, Mario",Carcere di Varese,1,middle;to,TRUE,FALSE
+"D'Angeli, Carlo",Carcere di Firenze,1,middle;to,TRUE,FALSE
+"Dana, Ester",Carcere di Como,1,middle;to,TRUE,FALSE
+"Dana, Mosé",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Dana, Salvatore",Carcere di Como,1,middle;to,TRUE,FALSE
+"Dana, Samuele",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Dana, Sara",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Dana, Stella 29 novembre 1926",Carcere di Como,1,middle;to,TRUE,FALSE
+"Dana, Stella 29 novembre1926",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Danon, Davide",Carcere di Milano,1,middle;to,TRUE,FALSE
+"De Benedetti, Lucia",Carcere di Milano,1,middle;to,TRUE,FALSE
+"De Benedetti, Piero",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Di Tivoli, Albertina",Collegio militare di Roma,1,middle;to,TRUE,FALSE
+"Di Tivoli, Speranza",Collegio militare di Roma,1,middle;to,TRUE,FALSE
+"Di Veroli, Lazzaro",Luino,1,middle;to,TRUE,FALSE
+"Diamante, Ermanno",Carcere di Genova,1,middle;to,TRUE,FALSE
+"Diena, Remigio",Modena,1,middle;to,TRUE,FALSE
+"Doenias, Astrid",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Drechsler, Lina Sali",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Farina, Teodolinda",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Fels, Guglielmo",Campo di Caprino,1,middle;to,TRUE,FALSE
+"Ferri, Luigi",Campo di Risiera San Sabba,1,middle;to,TRUE,FALSE
+"Finzi, Cesare",Carcere di Varese,1,middle;to,TRUE,FALSE
+"Finzi, Edgardo",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Finzi, Emma Laura",Carcere di Como,1,middle;to,TRUE,FALSE
+"Finzi, Fausta",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Finzi, Guglielmo",Carcere di Como,1,middle;to,TRUE,FALSE
+"Finzi, Tito",Carcere di Bergamo,1,middle;to,TRUE,FALSE
+"Fiorentino, Giuliana Adele",Carcere di Torino,1,middle;to,TRUE,FALSE
+"Fleischer, Olga",Carcere di Como,1,middle;to,TRUE,FALSE
+"Foà, Augusto",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Foà, Bianca",Carcere di Como,1,middle;to,TRUE,FALSE
+"Foà, Enrica",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Foà, Giorgio",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Foà, Matilde",Carcere di Casalmonferrato,1,middle;to,TRUE,FALSE
+"Foà, Pio",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Formiggini, Marcella",Carcere di Macerata,1,middle;to,TRUE,FALSE
+"Frankel, Margherita",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Fubini, Renzo",Carcere di Ivrea,1,middle;to,TRUE,FALSE
+"Gani, Alberto",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Gani, Ester",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Gani, Regina",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Hauser, Arnaldo",Campo di Servigliano,1,middle;to,TRUE,FALSE
+"Hauser, Lania Laura",Campo di Servigliano,1,middle;to,TRUE,FALSE
+"Hauser, Umberto",Campo di Servigliano,1,middle;to,TRUE,FALSE
+"Jona, Ezechia Leopoldo",Carcere di Torino,1,middle;to,TRUE,FALSE
+"Jona, Rinaldo",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Jona, Rosa Bianca",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Klein Cominotti, Carlo",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Kohn, Giulia",Carcere di Varese,1,middle;to,TRUE,FALSE
+"Levi, Aldo 16 marzo 1898",Carcere di Como,1,middle;to,TRUE,FALSE
+"Levi, Aldo 1 dicembre 1912",Carcere di Como,1,middle;to,TRUE,FALSE
+"Levi, Eloisa",Carcere di Varese,1,middle;to,TRUE,FALSE
+"Levi, Emilia",Carcere di Como,1,middle;to,TRUE,FALSE
+"Levi, Emilio",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Levi, Ester Vittoria",Carcere di Bergamo,1,middle;to,TRUE,FALSE
+"Levi, Giuseppe",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Levi, Guglielmo",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Levi, Mario",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Levi, Ugo",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Levi, Vittorio",Carcere di Bergamo,1,middle;to,TRUE,FALSE
+"Levy, Adriana",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Levy, Brunilde",Carcere di Genova,1,middle;to,TRUE,FALSE
+"Levy, Vittorio",Campo di Fossoli,1,middle;to,TRUE,FALSE
+"Loew, Giuseppe",Carcere di Pavia,1,middle;to,TRUE,FALSE
+"Loewenthal, Guido",Carcere di Macerata,1,middle;to,TRUE,FALSE
+"Lombroso, Alberto",Carcere di Macerata,1,middle;to,TRUE,FALSE
+"Luisada, Dante",Campo di Fossoli,1,middle;to,TRUE,FALSE
+"Luisada, Franco David",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Mankevitz, Ernst",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Menasci, Roberto Raffaello",Carcere di Lucca,1,middle;to,TRUE,FALSE
+"Molho, Dario",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Morais, Alberto",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Nacamulli, Vittorio",Carcere di Bergamo,1,middle;to,TRUE,FALSE
+"Norsa, Germana",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Norsa, Giorgio",Bormio,1,middle;to,TRUE,FALSE
+"Pecar, Davide",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Pecar, Leone Remo",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Pecar, Zina Mirella",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Perera, Luciano",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Perera, Mirella",Campo di Vallecrosia,1,middle;to,TRUE,FALSE
+"Perugia, Giacomo",Carcere di Varese,1,middle;to,TRUE,FALSE
+"Piperno, Rambaldo",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Piperno, Renzo",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Pirani, Clara",Carcere di Varese,1,middle;to,TRUE,FALSE
+"Pisetzky, Arturo",Carcere di Sondrio,1,middle;to,TRUE,FALSE
+"Rabbeno, Carla",Carcere di Genova,1,middle;to,TRUE,FALSE
+"Razon, Sultana Susanna",Carcere di Rovigo,1,middle;to,TRUE,FALSE
+"Razon, Vittoria",Carcere di Rovigo,1,middle;to,TRUE,FALSE
+"Reinach, Etta Maria",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Remondini, Marcella",Collegio militare di Roma,1,middle;to,TRUE,FALSE
+"Rodriguez, Berta",Carcere di Varese,1,middle;to,TRUE,FALSE
+"Rubitscheck, Fanny",Carcere di Firenze,1,middle;to,TRUE,FALSE
+"Sacerdote, Claudio",Carcere di Torino,1,middle;to,TRUE,FALSE
+"Sacerdote, Estella",Carcere di Torino,1,middle;to,TRUE,FALSE
+"Sacerdoti, Alessandro",Carcere di Como,1,middle;to,TRUE,FALSE
+"Sacerdoti, Valeria",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Saraval, Eugenio",Carcere di Venezia,1,middle;to,TRUE,FALSE
+"Sass, Peter",Carcere di Roma,1,middle;to,TRUE,FALSE
+"Scandiani, Bianca",Carcere di Torino,1,middle;to,TRUE,FALSE
+"Segre, Alberto",Carcere di Varese,1,middle;to,TRUE,FALSE
+"Segre, Giuseppe",Carcere di Como,1,middle;to,TRUE,FALSE
+"Segre, Liliana",Carcere di Varese,1,middle;to,TRUE,FALSE
+"Segre, Marco",Carcere di Roma,1,middle;to,TRUE,FALSE
+"Silvera, Violetta",Carcere di Varese,1,middle;to,TRUE,FALSE
+"Sinigaglia, Oreste",Campo di Reggio Emilia,1,middle;to,TRUE,FALSE
+"Sinigallia, Livia",Tirano,1,middle;to,TRUE,FALSE
+"Sonnino, Bice",Carcere di Genova,1,middle;to,TRUE,FALSE
+"Sonnino, Giorgio",Carcere di Genova,1,middle;to,TRUE,FALSE
+"Sorias, Giuseppe",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Spitz, Alberto Riccardo",Carcere di Como,1,middle;to,TRUE,FALSE
+"Tedeschi, Emma",Carcere di Genova,1,middle;to,TRUE,FALSE
+"Tedeschi, Eugenia",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Uggeri, Bruna Teresa",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Valabrega, Alberto",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Valabrega, Aldo",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Valabrega, Alma",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Valabrega, Bruno",,1,middle;to,TRUE,FALSE
+"Valech, Alba",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Varon, Dora",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Varon, Leone",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Vitale, Michele",Carcere di Varese,1,middle;to,TRUE,FALSE
+"Vitta Zelman, Ferruccio",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Vitta Zelman, Trieste",Carcere di Milano,1,middle;to,TRUE,FALSE
+"Weiss, Franco",Carcere di Milano,1,middle;to,TRUE,FALSE
+Bormio,Campo di Fossoli,1,middle;to,TRUE,TRUE
+Campo di Bolzano,Auschwitz,10,middle;to,TRUE,TRUE
+Campo di Bolzano,Ravensbrueck,4,middle;to,TRUE,TRUE
+Campo di Caprino,Campo di Fossoli,1,middle;to,TRUE,TRUE
+Campo di Fossoli,Auschwitz,200,middle;to,TRUE,TRUE
+Campo di Fossoli,Bergen Belsen,5,middle;to,TRUE,TRUE
+Campo di Fossoli,Ravensbrueck,5,middle;to,TRUE,TRUE
+Campo di Reggio Emilia,Campo di Fossoli,1,middle;to,TRUE,TRUE
+Campo di Risiera San Sabba,Auschwitz,2,middle;to,TRUE,TRUE
+Campo di Risiera San Sabba,Ravensbrueck,1,middle;to,TRUE,TRUE
+Campo di Servigliano,Campo di Fossoli,3,middle;to,TRUE,TRUE
+Campo di Vallecrosia,Campo di Fossoli,1,middle;to,TRUE,TRUE
+Carcere di Bergamo,Campo di Bolzano,1,middle;to,TRUE,TRUE
+Carcere di Bergamo,Campo di Fossoli,4,middle;to,TRUE,TRUE
+Carcere di Casalmonferrato,Campo di Fossoli,1,middle;to,TRUE,TRUE
+Carcere di Como,Campo di Fossoli,10,middle;to,TRUE,TRUE
+Carcere di Como,Carcere di Milano,3,middle;to,TRUE,TRUE
+Carcere di Firenze,Auschwitz,1,middle;to,TRUE,TRUE
+Carcere di Firenze,Verona,1,middle;to,TRUE,TRUE
+Carcere di Genova,Campo di Bolzano,1,middle;to,TRUE,TRUE
+Carcere di Genova,Campo di Fossoli,2,middle;to,TRUE,TRUE
+Carcere di Genova,Campo di Fossoli,1,middle;to,TRUE,TRUE
+Carcere di Genova,Carcere di Milano,2,middle;to,TRUE,TRUE
+Carcere di Ivrea,Campo di Fossoli,1,middle;to,TRUE,TRUE
+Carcere di Lucca,Carcere di Milano,1,middle;to,TRUE,TRUE
+Carcere di Macerata,Campo di Fossoli,3,middle;to,TRUE,TRUE
+Carcere di Milano,Auschwitz,50,middle;to,TRUE,TRUE
+Carcere di Milano,Bergen Belsen,8,middle;to,TRUE,TRUE
+Carcere di Milano,Buchenwald,1,middle;to,TRUE,TRUE
+Carcere di Milano,Campo di Bolzano,10,middle;to,TRUE,TRUE
+Carcere di Milano,Campo di Fossoli,19,middle;to,TRUE,TRUE
+Carcere di Pavia,Campo di Bolzano,1,middle;to,TRUE,TRUE
+Carcere di Pisa,Campo di Fossoli,1,middle;to,TRUE,TRUE
+Carcere di Roma,Campo di Fossoli,3,middle;to,TRUE,TRUE
+Carcere di Rovigo,Campo di Fossoli,5,middle;to,TRUE,TRUE
+Carcere di Sondrio,Carcere di Milano,3,middle;to,TRUE,TRUE
+Carcere di Torino,Campo di Fossoli,4,middle;to,TRUE,TRUE
+Carcere di Torino,Carcere di Milano,1,middle;to,TRUE,TRUE
+Carcere di Varese,Campo di Fossoli,5,middle;to,TRUE,TRUE
+Carcere di Varese,Carcere di Milano,13,middle;to,TRUE,TRUE
+Carcere di Venezia,Campo di Risiera San Sabba,1,middle;to,TRUE,TRUE
+Collegio militare di Roma,Auschwitz,3,middle;to,TRUE,TRUE
+Luino,Carcere di Milano,1,middle;to,TRUE,TRUE
+Modena,Campo di Fossoli,1,middle;to,TRUE,TRUE
+Tirano,Carcere di Milano,1,middle;to,TRUE,TRUE
+Verona,Auschwitz,1,middle;to,TRUE,TRUE
+Stazione di Verona,Auschwitz,100,middle;to,TRUE,TRUE
+Stazione di Bologna,Auschwitz,1,middle;to,TRUE,TRUE
+Campo di Fossoli,Stazione di Verona,100,middle;to,TRUE,TRUE
+Carcere di Firenze,Stazione di Bologna,1,middle;to,TRUE,TRUE
